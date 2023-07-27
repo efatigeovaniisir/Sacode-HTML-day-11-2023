@@ -15,4 +15,3 @@ Login
 Register
 <img src="images/3.png">
 
-index.html
